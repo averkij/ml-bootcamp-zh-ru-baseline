@@ -33,7 +33,7 @@ china_cat is your personal tag from the competitions page.
 
 ## Datasets
 
-Find or made proper Chinese to Russian datasets.
+Find or make proper Chinese to Russian datasets.
 
 Consider following resources:
 
