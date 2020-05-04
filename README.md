@@ -15,7 +15,7 @@ Docker container will be built with all stuff to translate the input (vocabulary
 
 - docker run -v C:/temp/input.txt:/tmp/data/input.txt -v C:/temp/output.txt:/opt/results/output.txt -it baseline:latest
 
-This command will mount the input and output files from your disk to the container folders (volumes) and run the logic in bash script on this files.
+This command will mount the input and output files from your disk to the container folders (volumes) and run the logic in bash script on these files.
 
 ## How to submit
 
@@ -58,5 +58,5 @@ Other ideas:
 
 ## Your model
 
-- I've made my own model with attention and stuff but it not better than OpenNMT (at all). Good luck with that.
+- I've made my own model with attention and stuff but it's not better than OpenNMT (at all). Good luck with that.
 
